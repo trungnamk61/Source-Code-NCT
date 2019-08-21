@@ -1,0 +1,32 @@
+[
+  {
+    "dev_id": 2,
+    "actuator_name": "LED",
+    "action": "ON",
+    "param": 100
+  },
+  {
+    "dev_id": 2,
+    "actuator_name": "PUMP_B",
+    "action": "ON",
+    "param": 100
+  },
+  {
+    "dev_id": 2,
+    "actuator_name": "PUMP_A",
+    "action": "OFF",
+    "param": 100
+  },
+  {
+    "dev_id": 2,
+    "actuator_name": "PUMP_UP",
+    "action": "ON",
+    "param": 100
+  },
+  {
+    "dev_id": 2,
+    "actuator_name": "PUMP_DOWN",
+    "action": "OFF",
+    "param": 100
+  }
+]

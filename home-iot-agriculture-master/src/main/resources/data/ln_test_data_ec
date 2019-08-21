@@ -1,0 +1,15 @@
+@relation icecreamsales.symbolic
+
+@attribute EcOrigin numeric
+@attribute A&BSol numeric
+@attribute EcChange numeric
+
+@data
+1068,2,401
+1469,2,395
+1864,1,195
+2059,0.5,49
+2108,0.5,65
+2173,0.5,30
+1195,2,357
+1552,5,753
